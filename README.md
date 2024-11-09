@@ -22,60 +22,60 @@
 </p>
 </div>
 
-## Features
+#特徴
 
-- Discord Info
-    - Token
-    - Nitro
-    - Billing
-    - 2FA 
-    - Email
-    - Phone
-    - Gift Codes
-    - Backup Codes
+- ディスコード情報
+- トークン
+- ニトロ
+- 請求
+- 2FA 
+- 電子メール
+- 電話番号
+- ギフトコード
+- バックアップコード
 
-- Browser Data
-    - Cookies
-    - Passwords
-    - History
-    - Credit/Debit Cards
+- ブラウザデータ
+- クッキー
+- パスワード
+- 履歴
+- クレジットカード/デビットカード
 
-- Game Data
-	- Minecraft Session Info
-	- Roblox Cookie & Other Data
+- ゲームデータ
+- マインクラフトのセッション情報
+- Robloxのクッキーとその他のデータ
 
-- Discord Injection
-    - Sends token, password & email on user login or when user changes password
+- Discordインジェクション
+- ログイン時やパスワード変更時にトークン、パスワード、Eメールを送信
 
-- System info
-    - User
-    - OS
-    - System
-    - Network IP
-    - Country
-    - Wifi
-    - Mac
-    - Hwid
-    - PC Specs
-    - Screenshot
-    - Proxies
-    - Installed AV's
-    - Product Key
+- システム情報
+- ユーザー
+- OS
+- システム
+- ネットワークIP
+- 国
+- 無線LAN
+- Mac
+- Hwid
+- PCスペック
+- スクリーンショット
+- プロキシ
+- インストールされているAV
+- プロダクトキー
 
-- General Functions
-    - Checks if being run in a virustotal sandbox/virtual machine
-    - Checks for blacklisted users, pc names, HWIDs, IPs, MACs and Processes
-    - Adds file to startup
-    - Anti Spam
-    - Fake Error
-    - Obfuscation
-    - Icon
-    - Low Detections
-    - Bypass Token Protector
-    - File Pumper
-    - Self Destruct
-    - Clipboard
-    - Crypto Wallets
+- 一般的な機能
+- virustotalサンドボックス/仮想マシンで実行されているかどうかをチェックします。
+- ブラックリストに登録されたユーザー、PC名、HWID、IP、MAC、プロセスのチェック
+- スタートアップにファイルを追加
+- アンチスパム
+- 偽のエラー
+- 難読化
+- アイコン
+- 低検出
+- トークンプロテクターバイパス
+- ファイルパンパ
+- 自己破壊
+- クリップボード
+- 暗号ウォレット
  
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
   
